@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "sorucevap-portali": {
+      "hosting": {
+        "proje01": [
+          "sorucevap-portali"
+        ]
+      }
+    },
+    "keremproje-b756a": {
+      "hosting": {
+        "proje01": [
+          "keremproje-b756a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "keremproje-b756a"
+  }
+}

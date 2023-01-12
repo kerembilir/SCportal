@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "adi": "Kiralık",
+      "kaytarih": "1668069636299",
+      "duztarih": "1670264758364"
+    },
+    {
+      "id": 2,
+      "adi": "Satılık",
+      "kaytarih": "1669493025838",
+      "duztarih": "1670264762972"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "adsoyad": "Patrick Bateman",
+      "mail": "eren@mail.com",
+      "admin": "1",
+      "parola": "123",
+      "kaytarih": "1668070115626",
+      "duztarih": "1670323708951"
+    },
+    {
+      "id": 2,
+      "adsoyad": "Tyler Durden",
+      "mail": "tyler@mail.com",
+      "admin": "0",
+      "parola": "123",
+      "kaytarih": "1668070283323",
+      "duztarih": "1668085150210"
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "ilanadi": "Kiralık",
+      "ilankredi": "3milyon",
+      "categoryId": 1,
+      "kaytarih": "1669492454308",
+      "duztarih": "1670286787228"
+    },
+    {
+      "id": 2,
+      "ilanadi": "Kiralık",
+      "ilankredi": "3 milyar",
+      "categoryId": "1",
+      "kaytarih": "1669493927763",
+      "duztarih": "1670286634535"
+    },
+    {
+      "id": 3,
+      "ilanadi": "villa",
+      "ilankredi": "3 milyon",
+      "categoryId": "2",
+      "kaytarih": "1670323782810",
+      "duztarih": "1670323782810"
+    },
+    {
+      "id": 4,
+      "ilanadi": "villa 2",
+      "ilankredi": "2milyar ",
+      "categoryId": "2",
+      "kaytarih": "1670323842271",
+      "duztarih": "1670324564052"
+    }
+  ]
+}
